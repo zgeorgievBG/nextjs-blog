@@ -1,9 +1,5 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import styles from './page.module.css'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
+  // eslint-disable-next-line react/react-in-jsx-scope
   return <div className='text-2xl text-red-500'>Welcome to the blog!</div>;
 }
