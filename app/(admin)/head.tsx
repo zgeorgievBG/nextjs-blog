@@ -1,7 +1,7 @@
 function Head() {
     return (
         <>
-        <title>NextJS Blog</title>
+        <title>Blog CMS</title>
         </>
     )
 }
